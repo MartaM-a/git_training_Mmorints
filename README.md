@@ -1,4 +1,4 @@
-# git-zadanie-sketch
+git# git-zadanie-sketch
 W swoim repozytorium wykonaj poniższe zadania (praca będzie widoczna w historii commitów między innymi) z krótkim sprawozdaniem z rozwiązania zadań.  
 Zadania opisowe dodaj w pliku o nazwie odpowiedzi w formacie md do swojego repozytorium.
 Miej na uwadze format plików md https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet.
