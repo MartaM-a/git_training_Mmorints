@@ -20,10 +20,6 @@
             <name>Marta Morintseva</name>
         </developer>
 
-        <developer>
-            <id>gitTraining</id>
-            <name>Kasia Kowalska</name>
-        </developer>
     </developers>
 
     <dependencies>
