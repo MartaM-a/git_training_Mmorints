@@ -8,10 +8,18 @@
     <artifactId>git-dtag</artifactId>
     <version>1.0.1-SNAPSHOT</version>
 
+
+
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
+    <developers>
+        <developer>
+            <id>gitTraining</id>
+            <name>Marta Morintseva</name>
+        </developer>
+    </developers>
 
     <dependencies>
         <dependency>
